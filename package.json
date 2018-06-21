@@ -1,0 +1,18 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "The Demo of FineX's API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.1",
+    "crypto": "^1.0.1",
+    "fast-json-stable-stringify": "^2.0.0",
+    "lodash": "^4.17.10",
+    "request": "^2.87.0"
+  }
+}
